@@ -8,7 +8,7 @@ function createPerson(){
     return {
         firstname: name.firstname,
         lastName: name.lastName,
-        hobbies: hobbies.hobbyOne
+        hobbies: hobbies
 
     };
 console.log(name);
