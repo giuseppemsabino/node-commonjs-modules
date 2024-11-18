@@ -1,4 +1,4 @@
-function createName(firdtName, lastName){
+function createName(firstname, lastName){
     return {firstname, lastName};
 }
 
